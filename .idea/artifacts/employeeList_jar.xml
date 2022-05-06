@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="employeeList:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/employeeList_jar</output-path>
+    <root id="archive" name="employeeList.jar">
+      <element id="module-output" name="employeeList" />
+      <element id="dir-copy" path="$PROJECT_DIR$/../workingWith2dArray/src/main/java/META-INF" />
+    </root>
+  </artifact>
+</component>
