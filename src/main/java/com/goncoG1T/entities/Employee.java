@@ -1,4 +1,4 @@
-package entities;
+package com.goncoG1T.entities;
 
 public class Employee {
     Integer id;

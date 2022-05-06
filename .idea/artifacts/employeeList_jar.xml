@@ -3,7 +3,9 @@
     <output-path>$PROJECT_DIR$/out/artifacts/employeeList_jar</output-path>
     <root id="archive" name="employeeList.jar">
       <element id="module-output" name="employeeList" />
-      <element id="dir-copy" path="$PROJECT_DIR$/../workingWith2dArray/src/main/java/META-INF" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../workingWith2dArray/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
     </root>
   </artifact>
 </component>
